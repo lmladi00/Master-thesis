@@ -7,5 +7,5 @@ In addition to studying, students often pursue a hobby or enroll in additional c
 
 The question is why they could not share their knowledge or skills with other students?
 
-Sneak peak showed to students who were interviewed for the first phase (1/6) of the Master thesis
+Sneak peak of high fidelity showed to students who were interviewed for the first phase (1/6) of the Master thesis
 https://www.figma.com/file/I1aoe1h3RQippdAClkOOoE/User-interviews?node-id=0%3A1&t=LNxTR9HgAGikxTav-1
