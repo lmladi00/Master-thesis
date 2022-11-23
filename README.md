@@ -9,3 +9,14 @@ The question is why they could not share their knowledge or skills with other st
 
 Sneak peak of high fidelity showed to students who were interviewed for the first phase (1/6) of the Master thesis
 https://www.figma.com/file/I1aoe1h3RQippdAClkOOoE/User-interviews?node-id=0%3A1&t=LNxTR9HgAGikxTav-1
+
+STEPS:
+
+1) Ideating
+2) Sketching
+3) Prototyping
+4) Evaluation
+5) Iterating
+6) Report writing
+
+Methodology: Sprint (6 phases) - Understand, Define, Sketch, Prototype, Validate
