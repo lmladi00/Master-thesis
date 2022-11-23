@@ -19,4 +19,4 @@ STEPS:
 5) Iterating
 6) Report writing
 
-Methodology: Sprint (6 phases) - Understand, Define, Sketch, Prototype, Validate
+Methodology: Sprint (6 phases) - Understand, Define, Sketch, Decide, Prototype, Validate
